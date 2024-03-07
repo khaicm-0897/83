@@ -26,7 +26,9 @@ body {
 }
 
 .container {
+    margin-left: 3%;
     margin-top: 7%;
+    margin-right: 3%;
 }
 
 h1,
@@ -513,12 +515,12 @@ h1 span:after {
         font-weight: 600;
     }
     .rose-1 {
-        margin-left: 190%;
+        margin-left: 185%;
         rotate: 20deg;
     }
 
     .rose-2 {
-        margin-left: -109%;
+        margin-left: -100%;
         margin-top: 53%;
     }
     .wrapper {
