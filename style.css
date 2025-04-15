@@ -159,11 +159,11 @@ h1 span:after {
 }
 
 .rose {
-    
     animation: yidon 5s infinite;
     transform: translateY(40%);
     display: inline-block;
     position: absolute;
+    margin-left: 25%;
 }
 
 .petal {
@@ -259,7 +259,7 @@ h1 span:after {
 /* rose 1 */
 
 .rose-1 {
-    margin-left: 95%;
+    margin-left: 99%;
     position: absolute;
     animation: yidon 5s infinite;
     transform: translateY(40%);
@@ -362,7 +362,7 @@ h1 span:after {
 .rose-2 {
     position: absolute;
     margin-top: 16%;
-    margin-left: -10%;
+    margin-left: 40%;
     animation: yidon 5s infinite;
     transform: translateY(40%);
     rotate: -30deg;
@@ -520,10 +520,10 @@ h1 span:after {
     }
 
     .rose-2 {
-        margin-left: -109%;
+        margin-left: 15%;
         margin-top: 53%;
     }
     .wrapper {
         margin-bottom: 30%;
     }
-  }
+}
